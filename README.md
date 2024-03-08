@@ -1,3 +1,5 @@
+Lista 1
+Grupo 4
 Participantes:
 * Bruno Queiroz Cariello
 * Geisila Silva da Costa
