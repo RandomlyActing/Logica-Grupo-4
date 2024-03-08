@@ -14,12 +14,15 @@ programa
 		leia(NumeroDois)
 		limpa()
 
-		se (NumeroUm > NumeroDois)
+		se (NumeroUm > NumeroDois){
 		escreva("O primeiro número é maior que o segundo ")
-		senao se(NumeroUm < NumeroDois)
+		}
+		senao se(NumeroUm < NumeroDois){
 		escreva("O primeiro núnero é menor que o segundo")
-		senao se(NumeroUm == NumeroDois)
+		}
+		senao se(NumeroUm == NumeroDois){
 		escreva("Os números são iguais")
+		}
 	}
 }		
 /* $$$ Portugol Studio $$$ 
