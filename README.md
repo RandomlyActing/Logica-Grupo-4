@@ -9,7 +9,7 @@ Participantes:
 Lista 2
 Participantes:
 * Bruno Queiroz Cariello 
-* Geisila Silva da Costa 
+* Geisila Silva da Costa - Questão 4, 9 e 12
 * julia nunes de almeida campos
 * Mateus Pereira Daltro - Questão 2, 6 e 11
 * Rodrigo Justen dos Santos Francisco - Questão 3, 7 e 10
