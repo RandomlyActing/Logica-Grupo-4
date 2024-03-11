@@ -8,7 +8,7 @@ Participantes:
 
 Lista 2
 Participantes:
-* Bruno Queiroz Cariello 
+* Bruno Queiroz Cariello - Questão 1, 5 e 8
 * Geisila Silva da Costa - Questão 4, 9 e 12
 * julia nunes de almeida campos - Não pode participar(Computador queimado)
 * Mateus Pereira Daltro - Questão 2, 6 e 11
