@@ -12,4 +12,4 @@ Participantes:
 * Geisila Silva da Costa 
 * julia nunes de almeida campos
 * Mateus Pereira Daltro 
-* Rodrigo Justen dos Santos Francisco 
+* Rodrigo Justen dos Santos Francisco - Questão 7 e 10
