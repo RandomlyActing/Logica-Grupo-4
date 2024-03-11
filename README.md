@@ -10,6 +10,6 @@ Lista 2
 Participantes:
 * Bruno Queiroz Cariello 
 * Geisila Silva da Costa - Questão 4, 9 e 12
-* julia nunes de almeida campos
+* julia nunes de almeida campos - Não pode participar(Computador queimado)
 * Mateus Pereira Daltro - Questão 2, 6 e 11
 * Rodrigo Justen dos Santos Francisco - Questão 3, 7 e 10
