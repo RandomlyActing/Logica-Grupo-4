@@ -11,5 +11,5 @@ Participantes:
 * Bruno Queiroz Cariello 
 * Geisila Silva da Costa 
 * julia nunes de almeida campos
-* Mateus Pereira Daltro 
+* Mateus Pereira Daltro - Questão 6 e 11
 * Rodrigo Justen dos Santos Francisco - Questão 7 e 10
