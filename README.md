@@ -13,3 +13,11 @@ Participantes:
 * julia nunes de almeida campos - Não pode participar(Computador queimado)
 * Mateus Pereira Daltro - Questão 2, 6 e 11
 * Rodrigo Justen dos Santos Francisco - Questão 3, 7 e 10
+
+Lista 3 
+Participantes:
+* Bruno Queiroz Carienllo
+* Geisila Silva da Costa
+* Julia nunes de Almeida Campos
+* Mateus Pereira Daltro
+* Rodrigo Justen dos Santos Francisco
