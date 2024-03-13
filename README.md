@@ -17,7 +17,7 @@ Participantes:
 Lista 3 
 Participantes:
 * Bruno Queiroz Carienllo - Questão 1 e 5
-* Geisila Silva da Costa Questão 6 e 11
+* Geisila Silva da Costa - Questão 6 e 11
 * Julia nunes de Almeida Campos
 * Mateus Pereira Daltro - Questão 3 e 7
 * Rodrigo Justen dos Santos Francisco - Querão 2 e 4
