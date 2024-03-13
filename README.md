@@ -21,3 +21,11 @@ Participantes:
 * Julia nunes de Almeida Campos
 * Mateus Pereira Daltro - Questão 3 e 7
 * Rodrigo Justen dos Santos Francisco - Querão 2 e 4
+
+Lista 4
+Participantes:
+* Bruno Queiroz Carienllo - Questão 3 e 4
+* Geisila Silva da Costa
+* Julia nunes de Almeida Campos
+* Mateus Pereira Daltro - Questão 7 e 8
+* Rodrigo Justen dos Santos Francisco - Querão 5 e 6
