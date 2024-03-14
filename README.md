@@ -36,4 +36,4 @@ Participantes:
 * Geisila Silva da Costa 
 * Julia nunes de Almeida Campos
 * Mateus Pereira Daltro - Questão 4 e 8
-* Rodrigo Justen dos Santos Francisco 
+* Rodrigo Justen dos Santos Francisco  - Questão 6 e 12
