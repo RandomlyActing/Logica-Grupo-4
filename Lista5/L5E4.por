@@ -23,7 +23,7 @@ o menor valor.*/
 				n2 = vetor[i]
 			}
 		}
-		escreva(n1," ",n2," ",result)
+		escreva("O menor é ",n1,". O maior é",n2,". A media é ",result)
 	}
 }
 
@@ -32,7 +32,7 @@ o menor valor.*/
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 418; 
+ * @POSICAO-CURSOR = 231; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
