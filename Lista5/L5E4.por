@@ -1,21 +1,21 @@
 programa
 {
-	/*04 - Escreva um programa que solicite ao usuário que entre com 10 números, armazene em
+	/*04 - Escreva um programa que solicite ao usuário que entre com 10 números, armazene em
 um vetor, calcule a média dos valores armazenados e imprima qual a média, qual o maior e
 o menor valor.*/
 	funcao inicio()
 	{
-		real vetor[9], n1, n2, fin = 0, result
-		para(inteiro i = 0; i < 9; i ++){
+		real vetor[10], n1, n2, fin = 0, result
+		para(inteiro i = 0; i < 10; i ++){
 			escreva("Digite um número: ")
 			leia(vetor[i])
 			fin += vetor[i]
 			}
-		result = fin / 9
+		result = fin / 10
 		n1 = vetor[0]
 		n2 = vetor[0]
 		
-		para(inteiro i = 0; i < 9; i++){
+		para(inteiro i = 0; i < 10; i++){
 			se(vetor[i] < n1){
 				n1 = vetor[i]
 			}
@@ -23,7 +23,7 @@ o menor valor.*/
 				n2 = vetor[i]
 			}
 		}
-		escreva("O menor é ",n1,". O maior é",n2,". A media é ",result)
+		escreva("O menor é ",n1,". O maior é ",n2,". A media é ",result)
 	}
 }
 
@@ -32,7 +32,7 @@ o menor valor.*/
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 231; 
+ * @POSICAO-CURSOR = 493; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
