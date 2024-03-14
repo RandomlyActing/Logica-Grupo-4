@@ -2,7 +2,7 @@ programa
 {
 	funcao inicio()
 	{
-		const inteiro tam = 5
+		const inteiro tam = 10
 		inteiro vetorInteiro[tam]
 
 		para(inteiro i = 0; i < tam; i++){
