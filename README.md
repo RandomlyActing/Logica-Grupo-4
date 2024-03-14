@@ -30,7 +30,7 @@ Participantes:
 * Mateus Pereira Daltro - Questão 7 e 8
 * Rodrigo Justen dos Santos Francisco - Querão 5 e 6
 
-Lista 4
+Lista 5
 Participantes:
 * Bruno Queiroz Carienllo 
 * Geisila Silva da Costa 
