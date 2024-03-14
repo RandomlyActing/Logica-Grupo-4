@@ -11,7 +11,7 @@ programa
 		}
 
 		limpa()
-			escreva("Osvetores informados sâo: ")
+			escreva("Os vetores informados sâo: ")
 		para(inteiro i = tam - 1; i >= 0; i--){
 			
 			escreva("\n ",vetorInteiro[i])
