@@ -29,3 +29,11 @@ Participantes:
 * Julia nunes de Almeida Campos
 * Mateus Pereira Daltro - Questão 7 e 8
 * Rodrigo Justen dos Santos Francisco - Querão 5 e 6
+
+Lista 4
+Participantes:
+* Bruno Queiroz Carienllo 
+* Geisila Silva da Costa 
+* Julia nunes de Almeida Campos
+* Mateus Pereira Daltro - Questão 4 
+* Rodrigo Justen dos Santos Francisco 
