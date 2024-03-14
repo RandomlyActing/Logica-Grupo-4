@@ -32,7 +32,7 @@ Participantes:
 
 Lista 5
 Participantes:
-* Bruno Queiroz Carienllo 
+* Bruno Queiroz Carienllo - Questão 2 e 5
 * Geisila Silva da Costa 
 * Julia nunes de Almeida Campos
 * Mateus Pereira Daltro - Questão 4 e 8
