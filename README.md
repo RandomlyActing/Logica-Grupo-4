@@ -43,5 +43,5 @@ Participantes:
 * Bruno Queiroz Carienllo - Questão 9 e 11
 * Geisila Silva da Costa Questão 3 e 4
 * Julia nunes de Almeida Campos - Questão 2 e 7
-* Mateus Pereira Daltro - Questão 10 e 12
+* Mateus Pereira Daltro - Questão 1 e 12
 * Rodrigo Justen dos Santos Francisco  - Questão 5 e 8
